@@ -96,7 +96,7 @@ const PinkBeachApp = () => {
         }
         
         // Mappa condizioni meteo
-        const getConditionFromAPI = (weatherMain) => {
+          const getConditionFromAPI = (weatherMain: string) => {
           const conditionMap = {
             'Clear': 'sunny',
             'Clouds': 'cloudy',
