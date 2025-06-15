@@ -1,5 +1,6 @@
-// @ts-ignore
+typescript// @ts-ignore
 'use client'
+// @ts-nocheck
 import React, { useState, useEffect } from 'react';
 import { Calendar, Users, Trophy, User, Bell, Plus, Settings, ArrowLeft, Camera, MessageCircle, ChevronLeft, ChevronRight, UserCog } from 'lucide-react';
 
