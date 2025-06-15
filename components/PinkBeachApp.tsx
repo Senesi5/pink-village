@@ -2479,3 +2479,4 @@ const PinkBeachApp = () => {
 };
 
 export default PinkBeachApp;
+
