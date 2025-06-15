@@ -1,4 +1,5 @@
-typescript'use client'
+typescript
+  'use client'
 
 // @ts-ignore
 // @ts-nocheck
